@@ -322,6 +322,7 @@
   background-color: #1f1f1f;
   flex-basis: 711px;
   position: relative;
+  padding: 100px;
 }
 
 .footer_columns {
@@ -329,6 +330,11 @@
   width: 90%;
   min-height: 350px;
   display: flex;
+  justify-content: space-between;
+}
+
+.footer_column__content-copyright {
+  border: 3px solid #fff;
 }
 
 .logo-footer {
@@ -337,8 +343,22 @@
   height: 32px;
 }
 
+.footer_column-heading {
+  margin: 0;
+  padding: 0;
+  border: 1px solid #fff;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+}
+
 .footer_author {
   border: 1px solid red;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: normal;
+  display: flex;
+  align-content: space-between;
 }
 
 .footer_column__content-info {
@@ -352,4 +372,7 @@
 .footer_column-link {
   text-decoration: none;
   color: #2f80ed;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: normal;
 }
