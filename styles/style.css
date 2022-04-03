@@ -123,7 +123,8 @@
   padding-bottom: 30px;
   display: flex;
   min-width: 784px;
-  font-size: 20px; /*По другому не получается расположить текст. На экране 24-й кегль выглядить огромным и не вмещается в блок без */
+  font-size: 20px;
+  /*По другому не получается расположить текст. На экране 24-й кегль выглядить огромным и не вмещается в блок без */
   word-wrap: none;
   line-height: 34px;
 }
@@ -140,7 +141,8 @@
 /* ------------Третий блок "Цифры"------------ */
 
 .digits {
-  padding-top: 100px; /* Не поняла как сделать отступы по бокам*/
+  padding-top: 100px;
+  /* Не поняла как сделать отступы по бокам*/
   color: #000;
 }
 
@@ -317,56 +319,44 @@
 /* --------------Подвал сайта (наконец-то)------------ */
 
 .footer {
-  border: 1px solid red;
   color: #fff;
   background-color: #1f1f1f;
-  flex-basis: 711px;
-  position: relative;
-  padding: 100px;
+  min-height: 350px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
 }
 
 .footer_columns {
-  padding: 60px auto 40px;
+  margin: 0 auto;
+  padding-bottom: 40p;
   width: 90%;
-  min-height: 350px;
   display: flex;
   justify-content: space-between;
 }
 
-.footer_column__content-copyright {
-  border: 3px solid #fff;
+.footer_author {
+  padding-bottom: 14px;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: normal;
+}
+
+.footer__column_content_copyright {
+  flex-basis: 711px;
+  justify-content: space-between;
 }
 
 .logo-footer {
-  border: 1px solid green;
   width: 228px;
   height: 32px;
 }
 
 .footer_column-heading {
   margin: 0;
-  padding: 0;
-  border: 1px solid #fff;
   font-size: 18px;
   line-height: 30px;
   font-weight: bold;
-}
-
-.footer_author {
-  border: 1px solid red;
-  font-size: 18px;
-  line-height: 25px;
-  font-weight: normal;
-  display: flex;
-  align-content: space-between;
-}
-
-.footer_column__content-info {
-  border: 1px solid #000;
-}
-
-.footer_column__content-social {
-  border: 4px solid rgb(255, 83, 241);
 }
 
 .footer_column-link {
@@ -375,4 +365,31 @@
   font-size: 18px;
   line-height: 30px;
   font-weight: normal;
+  display: flex;
+  overflow: hidden;
+}
+
+.footer_column-links {
+  margin: 0;
+  padding: 20px 0 16px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_column {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_social-icon {
+  width: 16px;
+  height: 16px;
+  align-self: center;
+ }
+
+.footer__column_link-social {
+  margin-bottom: 10px;
+  padding: 0;
+  display: flex;
 }
