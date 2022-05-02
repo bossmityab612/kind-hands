@@ -74,7 +74,7 @@
 @import url('../blocks/table/_theme/table_theme_dark.css');
 @import url('../blocks/table/__cell/_theme/table__cell_theme_dark.css');
 @import url('../blocks/table/__heading/_theme/table__heading_theme_dark.css');
-@import url('../blocks/table/__text/_theme_dark/table__text_theme_dark.css');
+@import url('../blocks/table/__text/_theme/table__text_theme_dark.css');
 
 /* -----------------Блок "Ресурсы"-------------- */
 @import url('../blocks/resources/resources.css');
