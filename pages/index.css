@@ -10,6 +10,7 @@
 @import url('../blocks/header/__title/_link/header__title_link.css');
 @import url('../blocks/header/__navigation/header__navigation.css');
 @import url('../blocks/header/__navigation-list-item/header__navigation-list-item.css');
+@import url('../blocks/header/__burger/header__burger.css');
 @import url('../blocks/header/__social-links/header__social-links.css');
 @import url('../blocks/header/__social-links/_item/header__social-links_item.css');
 @import url('../blocks/header/__social-links/_item/_vk/header__social-links_item_vk.css');
