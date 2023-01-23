@@ -1,0 +1,7 @@
+.news__description_post {
+  border: none;
+  -webkit-line-clamp: auto;
+  display: block;
+  -webkit-box-orient: vertical;
+  /* overflow: hidden; */
+}

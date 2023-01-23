@@ -1,0 +1,12 @@
+.navigation__title {
+  text-align: center;
+  font-size: 38px;
+  margin-top: 30px;
+  /* color: #419422; */
+  color: #193232;
+
+}
+
+.navigation__title:first-child {
+  margin-top: 0;
+}

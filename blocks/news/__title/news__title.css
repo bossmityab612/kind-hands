@@ -1,0 +1,18 @@
+.news__title {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  width: 100%;
+  /* height: max-content; */
+  min-height: 165px;
+  display: flex;
+  text-align: center;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .news__title {
+    font-size: 18px;
+  }
+}

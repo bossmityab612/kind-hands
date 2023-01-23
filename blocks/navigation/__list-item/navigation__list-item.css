@@ -1,0 +1,8 @@
+.navigation__list-item {
+  list-style: none;
+  border-bottom: 2px solid rgb(136, 136, 136);
+}
+
+.navigation__list-item:hover {
+  background-color: #193232;
+}

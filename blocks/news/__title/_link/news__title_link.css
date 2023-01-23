@@ -1,0 +1,8 @@
+.news__title_link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.news__title_link:hover {
+  color: #000;
+}

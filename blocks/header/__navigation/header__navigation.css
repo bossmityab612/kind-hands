@@ -1,0 +1,10 @@
+.header__navigation {
+  display: flex;
+  max-width: 672px;
+  /* width: 100%; */
+  /* display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 1fr; */
+  align-items: baseline;
+  text-align: center;
+}

@@ -1,0 +1,7 @@
+.news__block {
+  background-color: #818181;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}

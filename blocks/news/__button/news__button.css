@@ -1,0 +1,11 @@
+.news__button {
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  /* content: 'Читать далее'; */
+}
+
+.news__button:hover {
+  background-color: #000;
+  color: #fff;
+}

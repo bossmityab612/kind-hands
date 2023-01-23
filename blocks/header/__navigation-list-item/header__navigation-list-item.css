@@ -1,0 +1,27 @@
+.header__navigation-list-item {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 20px;
+  display: flex;
+  padding-right: 20px;
+  align-items: center;
+  height: 100%;
+}
+
+.header__navigation-list-item:hover {
+  color: #000
+}
+
+
+@media screen and (max-width: 1024px) {
+  .header__navigation-list-item {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header__navigation-list-item {
+    font-size: 14px;
+  }
+}

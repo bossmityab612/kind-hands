@@ -1,0 +1,7 @@
+.header__title_link {
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
