@@ -1,6 +1,10 @@
 .news__title_link {
   text-decoration: none;
   color: #fff;
+  display: flex;
+  align-items: center;
+  min-height: 145px;
+
 }
 
 .news__title_link:hover {

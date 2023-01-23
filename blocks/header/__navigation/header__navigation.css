@@ -8,3 +8,9 @@
   align-items: baseline;
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .header__navigation {
+    display: none;
+  }
+}

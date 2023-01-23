@@ -1,9 +1,10 @@
 .news {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 420px);
+  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(3, 1fr);
   justify-content: space-around;
   justify-items: center;
   gap: 25px;
+  max-width: 780px;
 }
