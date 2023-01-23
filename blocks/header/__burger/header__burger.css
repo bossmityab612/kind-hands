@@ -1,9 +1,8 @@
 .header__burger {
-  /* border: none; */
   display: none;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .header__burger {
   border: none;
   display: flex;
@@ -12,4 +11,4 @@
   background-image: url('../../../images/logo/burger-icon.png');
   background-color: transparent;
   }
-}
+} */
