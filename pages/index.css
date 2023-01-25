@@ -42,11 +42,19 @@
 @import url('../blocks/vacancies/__title/vacancies__title.css');
 @import url('../blocks/contacts/__title/contacts__title.css');
 @import url('../blocks/contacts/__map/contacts__map.css');
+@import url('../blocks/contacts/__map/_item/contacts__map_item.css');
+@import url('../blocks/contacts-block/contacts-block.css');
 @import url('../blocks/contacts/__director-block/contacts__director-block.css');
 @import url('../blocks/contacts/__director-name/contacts__director-name.css');
 @import url('../blocks/contacts/__number/contacts__number.css');
 @import url('../blocks/contacts/__adress/contacts__address.css');
 @import url('../blocks/contacts/__type-of-job/contacts__type-of-job.css');
+@import url('../blocks/contacts/__socials/contacts__socials.css');
+@import url('../blocks/contacts/__socials/_title/contacts__socials_title.css');
+@import url('../blocks/contacts/__socials-list/contacts__socials-list.css');
+@import url('../blocks/contacts/__socials-list/_item/contacts__socials-list_item.css');
+@import url('../blocks/contacts/__socials-list/_link/contacts__socials-list_link.css');
+
 
 /* -------------------ВАКАНСИИ------------------ */
 @import url('../blocks/vacancies/vacancies.css');

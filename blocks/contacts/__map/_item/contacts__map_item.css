@@ -1,0 +1,5 @@
+.contacts__map_item {
+  border: none;
+  border: 1px solid red;
+  min-height: 400px;
+}
