@@ -15,6 +15,9 @@
 @import url('../blocks/header/__social-links/_item/header__social-links_item.css');
 @import url('../blocks/header/__social-links/_item/_vk/header__social-links_item_vk.css');
 @import url('../blocks/header/__social-links/_item/_ok/header__social-links_item_ok.css');
+@import url('../blocks/header/__cont-menu/header__cont-menu.css');
+@import url('../blocks/header/__burger/header__burger.css');
+@import url('../blocks/header/__navigation/_cont-menu/header__navigation_cont-menu.css');
 
 
 /* --------------Блок Новости--------------- */
