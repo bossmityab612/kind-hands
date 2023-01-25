@@ -1,0 +1,4 @@
+.content__vacancies {
+  display: flex;
+  flex-direction: column;
+}

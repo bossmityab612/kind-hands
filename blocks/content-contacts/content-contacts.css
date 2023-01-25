@@ -1,0 +1,16 @@
+.content-contacts {
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1440px;
+}
+
+/* @media screen and (max-width: 1024px) {
+  .content-contacts {
+    flex-direction: column;
+    align-items: center;
+  }
+} */

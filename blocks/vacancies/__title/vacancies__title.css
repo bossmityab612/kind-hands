@@ -1,0 +1,9 @@
+.vacancies__title {
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1440px;
+  font-size: 48px;
+  justify-content: center;
+}
