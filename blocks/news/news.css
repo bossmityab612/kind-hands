@@ -1,7 +1,7 @@
 .news {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, minmax(380px, 1fr));
+  grid-template-columns: repeat(2, minmax(340px, 1fr));
   /* grid-template-rows: repeat(3, 1fr); */
   justify-content: space-around;
   justify-items: center;

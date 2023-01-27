@@ -2,10 +2,10 @@
   margin: 0;
   padding: 0;
   width: 100%;
-  min-height: 140px;
+  max-height: 140px;
   font-size: 20px;
   font-weight: 600;
-  -webkit-line-clamp: 6;
+  -webkit-line-clamp: 4;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   text-overflow: ellipsis;

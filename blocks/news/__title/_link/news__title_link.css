@@ -1,10 +1,12 @@
 .news__title_link {
   text-decoration: none;
   color: #fff;
-  display: flex;
-  align-items: center;
-  min-height: 145px;
-
+  display: -webkit-box;
+  text-align: center;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 .news__title_link:hover {
