@@ -1,8 +1,9 @@
-const burgerButton = (elem) => {
-	const burger = elem.querySelectorAll('.header__burger');
-	burger.forEach(function(el) {
-		el.addEventListener('click', function(evt) {
-			evt.target.classList.toggle('test_selector');
-		});
-	});
-};
+
+// Открытие и закрытие меню
+const popup = document.querySelector('.header__navigation_cont-menu');
+const openPopupButton = document.querySelector('.header__burger');
+
+openPopupButton.addEventListener('click', () => {
+  popup.classList.toggle('burger_opened');
+});
+

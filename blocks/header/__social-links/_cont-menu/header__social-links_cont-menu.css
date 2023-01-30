@@ -1,0 +1,4 @@
+.header__social-links_cont-menu {
+  display: flex;
+  flex-direction: row;
+}

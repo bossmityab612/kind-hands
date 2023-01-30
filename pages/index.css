@@ -18,6 +18,8 @@
 @import url('../blocks/header/__cont-menu/header__cont-menu.css');
 @import url('../blocks/header/__burger/header__burger.css');
 @import url('../blocks/header/__navigation/_cont-menu/header__navigation_cont-menu.css');
+@import url('../blocks/header/__social-links/_cont-menu/header__social-links_cont-menu.css');
+@import url('../blocks/header/__burger/_opened/burger_opened.css');
 
 
 /* --------------Блок Новости--------------- */
