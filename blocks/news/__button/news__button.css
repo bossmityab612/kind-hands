@@ -2,8 +2,14 @@
   border: none;
   border-radius: 10px;
   cursor: pointer;
-  /* content: 'Читать далее'; */
-  
+  background: #fff;
+  text-decoration: none;
+  color: #000;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 .news__button:hover {

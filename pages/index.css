@@ -20,6 +20,12 @@
 @import url('../blocks/header/__navigation/_cont-menu/header__navigation_cont-menu.css');
 @import url('../blocks/header/__social-links/_cont-menu/header__social-links_cont-menu.css');
 @import url('../blocks/header/__burger/_opened/burger_opened.css');
+@import url('../blocks/navigation-menu/navigation-menu.css');
+@import url('../blocks/header/__search/header__search.css');
+@import url('../blocks/header/__search/_opened/search_opened.css');
+@import url('../blocks/button-block/button-block.css');
+@import url('../blocks/navigation/__text/navigation__text.css');
+@import url('../blocks/navigation/__link/navigation__link.css');
 
 
 /* --------------Блок Новости--------------- */

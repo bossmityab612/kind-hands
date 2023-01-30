@@ -1,6 +1,7 @@
 .news__image-link {
   border: none;
   display: flex;
+  justify-content: center;
   width: 100%;
   height: 100%;
 }
