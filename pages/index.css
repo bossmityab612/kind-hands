@@ -76,10 +76,12 @@
 @import url('../blocks/social-services/__title/social-services__title.css');
 @import url('../blocks/social-services/__subtitle/social-services__subtitle.css');
 @import url('../blocks/social-services/__forms/social-services__forms.css');
-@import url('../blocks/social-services/__home/social-services__home.css');
+@import url('../blocks/social-services/__subtitle-list/social-services__subtitle-list.css');
+@import url('../blocks/social-services/__list/social-services__list.css');
 @import url('../blocks/social-services/__table/social-services__table.css');
-@import url('../blocks/social-services/__table/_numbers/social-services__title_numbers.css');
-@import url('../blocks/social-services/__table/_description/social-services__title_description.css');
+@import url('../blocks/social-services/__table/_numbers/social-services__table_numbers.css');
+@import url('../blocks/social-services/__table/_description/social-services__table_description.css');
+@import url('../blocks/social-services/__stat/social-services__stat.css');
 @import url('../blocks/social-services/__text/social-services__text.css');
 @import url('../blocks/social-services/__links/social-services__links.css');
 
