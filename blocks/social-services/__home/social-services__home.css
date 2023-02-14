@@ -1,0 +1,18 @@
+.social-services__home {
+  margin: 0 auto;
+  padding: 30px;
+  border-bottom: 1px solid #000;
+  display: flex;
+  flex-direction: column;
+  font-size: 24px;
+  text-align: center;
+  max-width: 250px;
+}
+
+.social-services__stat {
+  margin: 0 auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  font-size: 24px;
+}
