@@ -6,4 +6,9 @@
   flex-direction: column;
   max-width: 1300px;
   font-size: 24px;
+  cursor: pointer;
+}
+
+.social-services__links:hover {
+  color: #fff;
 }
