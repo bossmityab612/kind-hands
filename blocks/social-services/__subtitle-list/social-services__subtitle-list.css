@@ -1,5 +1,6 @@
 .social-services__subtitle-list {
-  margin: 30px;
+  margin: 0 auto 30px;
+  padding-bottom: 10px;
   border-bottom: 1px solid #000;
   display: flex;
   justify-content: center;
