@@ -1,12 +1,8 @@
 .news__title_link {
   text-decoration: none;
   color: #fff;
-  display: -webkit-box;
+  display: flex;
   text-align: center;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  text-overflow: ellipsis;
-  overflow: hidden;
 }
 
 .news__title_link:hover {
