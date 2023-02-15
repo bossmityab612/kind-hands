@@ -1,4 +1,10 @@
 .content__vacancies {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__vacancies {
+    flex-direction: column;
+  }
 }
