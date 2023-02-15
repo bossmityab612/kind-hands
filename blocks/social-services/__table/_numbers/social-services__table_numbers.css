@@ -1,6 +1,6 @@
 .social-services__table_numbers {
   margin: 0;
-  padding: 20px;
-  display: flex;
-  flex-direction: column;
+  padding: 0;
+  /* display: table; */
+  /* flex-direction: column; */
 }
